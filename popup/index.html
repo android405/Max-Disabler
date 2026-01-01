@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=M+PLUS+2&display=swap" rel="stylesheet">
+
+        <meta charset="utf-8">
+
+        <link href="popup.css" rel="stylesheet">
+    </head>
+	<body>
+		<div class="header">
+		<h3>Max-Disabler</h3>
+		<p>Не работает даже в браузере <small>v0.2</small></p>
+		<hr></hr>
+		</div>
+		<div class="functional">
+		<fieldset>
+		<legend>Опции</legend>
+		<input type="checkbox" id="eraseHtml"/>
+		<label for="eraseHtml">Эффект незагружающейся страницы</label>
+		<br>
+		<input type="checkbox" id="eraseQR"/>
+		<label for="eraseQR">Отключить QR-код</label>
+		<br>
+		<input type="checkbox" id="eraseForm"/>
+		<label for="eraseForm">Убрать форму входа</label>
+		</fieldset>
+		<br>
+			<button id="save">Применить изменения</button>
+		</div>
+        <script src="./index.js"></script>
+    </body>
+</html>

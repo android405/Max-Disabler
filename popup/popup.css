@@ -1,0 +1,26 @@
+body{
+    overflow: hidden;
+    margin:0%;
+    width: 350px;
+    height: 110px;
+    min-width: 300px;
+	margin-left: 6px;
+	margin-right: 6px;
+	margin-bottom: 6px;
+}
+
+button{
+	border: none;
+	padding: 12px 14px;
+	margin-bottom: 6px;
+	background-color: #ddd;
+}
+
+button:hover{
+	background-color: #ddf;
+	cursor: pointer;
+}
+
+label:hover{
+	cursor: pointer;
+}
