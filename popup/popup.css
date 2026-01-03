@@ -2,7 +2,7 @@ body{
     overflow: hidden;
     margin:0%;
     width: 350px;
-    height: 110px;
+    height: auto;
     min-width: 300px;
 	margin-left: 6px;
 	margin-right: 6px;
