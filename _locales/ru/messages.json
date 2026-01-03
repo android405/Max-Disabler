@@ -1,0 +1,26 @@
+{
+	"extensionName":{
+		"message": "Max-Disabler"
+	}, 
+	"extensionDescription":{
+		"message": "Disabler for Max"
+	},
+	"popupOptionsHeader":{
+		"message": "Опции"
+	},
+	"popupNotLoadedOption":{
+		"message": "Эффект незагружающейся страницы"
+	},
+	"popupQROption":{
+		"message": "Отключить QR-код"
+	},
+	"popupAuthFormOption":{
+		"message": "Убрать форму входа"
+	},
+	"popupSubmitButton":{
+		"message": "Применить изменения"
+	},
+	"popupResetButton":{
+		"message": "Сбросить изменения"
+	}
+}
